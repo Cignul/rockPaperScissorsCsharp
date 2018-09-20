@@ -54,7 +54,7 @@ namespace roshamboC
       }
       if (userSelection == paper && compChoice == paper)
       {
-        Console.WriteLine("Tie game, like kissing your sister");
+        Console.WriteLine("Tie game, at least an attempt was made");
       }
       if (userSelection == scissors && compChoice == paper)
       {
